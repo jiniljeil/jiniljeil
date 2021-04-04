@@ -1,9 +1,7 @@
 ### Hi there, I'm Jinil. 👋    
-       
+I am interested in computer security. I'm still lacking a lot, but I'm learning hard.
+<strong>The stupidest and ugliest excuse of all is an excuse for the "I don't have time." - Edison</strong>
 -----------------    
-     
-### The stupidest and ugliest excuse of all is an excuse for the "I don't have time." - Edison
-
 ## Project
   - HGU SHOP Application
   - Lecture Assessment Website
