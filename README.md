@@ -1,7 +1,9 @@
-### Hi there, I'm jinil 👋    
+### Hi there, I'm Jinil. 👋    
         
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=jiniljeil)](https://github.com/anuraghazra/github-readme-stats)
-    
+
+### The stupidest and ugliest excuse of all is an excuse for the "I don't have time." - Edison
+
 ## Project
   - HGU SHOP Application
   - Lecture Assessment Website
@@ -29,7 +31,6 @@
   - Problem Solving
     - [Baekjoon](https://www.acmicpc.net/user/hello_world1)
   
-### The stupidest and ugliest excuse of all is an excuse for the "I don't have time." - Edison
 
 <!--
 **jiniljeil/jiniljeil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
