@@ -5,12 +5,16 @@
 > The stupidest and ugliest excuse of all is an excuse for the "I don't have time." - Edison
 -----------------    
 ## Project
-  - HGU SHOP Application
-  - Lecture Assessment Website
-  - Connect6
-  - Arp Spoofing
+  - Arp Spoofing (Network hacking) (2019-1) 
+  - HGU SHOP Application (2019-2)
+  - Connect6 (2020-1)
+  - C++ Education Video Contest (2020-2)
+  - Lecture Assessment Website (2020-2)
+  - Pentest WebSite (Website hacking) (2020-2)
+  - Place of Meeting Application (2021-1, Proceeding)
   - Side Project
     - Java syntax Highlighter
+    - Assembly Interpreter
     - TAR - file archiving program
     - Image Editor
     - Grapic Editor
