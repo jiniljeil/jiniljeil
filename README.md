@@ -32,6 +32,7 @@
     - Java
     - Python
     - Web (Javascript, PHP, JSP) 
+    - Mobile Application (Dart)
   - Security
     - Web
     - Crypto 
