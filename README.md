@@ -43,9 +43,8 @@
        
       [![백준 랭킹](http://mazassumnida.wtf/api/v2/generate_badge?boj=hello_world1)](https://www.acmicpc.net/user/hello_world1)
 
-## Github
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jiniljeil)](https://github.com/anuraghazra/github-readme-stats)
-      
+## Github State
+
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=jiniljeil)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **jiniljeil/jiniljeil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
