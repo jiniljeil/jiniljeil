@@ -11,7 +11,7 @@
   - C++ Education Video Contest (2020-2)
   - Lecture Assessment Website (2020-2)
   - Pentest WebSite (Website hacking) (2020-2)
-  - Place of Meeting Application (2021-1, Proceeding)
+  - Place of Meeting Application (2021-1)
   - Side Project
     - Java syntax Highlighter
     - Assembly Interpreter
