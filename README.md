@@ -27,23 +27,29 @@
                </ul>
           </li>
      </ul> 
-  <br/>  
 </details>
 
 <details> 
      <summary> 관심분야🔥 </summary><br/> 
-        - Language     <br/>   
-         - C/C++/Assembly    <br/>   
-         - Java    <br/>   
-         - Python     <br/>   
-         - Web (Javascript, PHP, JSP)     <br/>   
-         - Mobile Application (Dart)     <br/>   
-       - Security      <br/>   
-         - Web     <br/>   
-         - Crypto      <br/>   
-         - Reversing      <br/>   
-         - Exploit    <br/>   
-          <br/>
+     <ul>
+          <li>Language
+               <ul>
+                    <li>C/C++/Assembly</li>
+                    <li>Java</li>
+                    <li>Python</li>
+                    <li>Web (Javascript, PHP, JSP)</li>
+                    <li>Mobile Application (Dart)</li>
+               </ul>
+          </li>
+          <li>Security
+               <ul>
+                    <li>Web</li>
+                    <li>Crypto</li>
+                    <li>System</li>
+                    <li>Network</li>
+               </ul>
+          </li>
+     </ul>
 </details>
    
 - Problem Solving    
