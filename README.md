@@ -7,38 +7,38 @@
 
 <details>
 <summary> ⭐ 프로젝트 경험 ⭐ </summary><br/>
-  - Arp Spoofing (Network hacking) (2019-1)    
-  - HGU SHOP Application (2019-2)    
-  - Connect6 (2020-1)    
-  - C++ Education Video Contest (2020-2)    
-  - Lecture Assessment Website (2020-2)    
-  - Pentest WebSite (Website hacking) (2020-2)   
-  - Place of Meeting Application (2021-1)    
-  - Side Project    
-    - Java syntax Highlighter    
-    - Assembly Interpreter    
-    - TAR - file archiving program    
-    - Image Editor    
-    - Grapic Editor    
-    - Calculator    
-    - etc...    
+     - Arp Spoofing (Network hacking) (2019-1)    
+     - HGU SHOP Application (2019-2)    
+     - Connect6 (2020-1)    
+     - C++ Education Video Contest (2020-2)    
+     - Lecture Assessment Website (2020-2)    
+     - Pentest WebSite (Website hacking) (2020-2)   
+     - Place of Meeting Application (2021-1)    
+     - Side Project    
+         - Java syntax Highlighter    
+         - Assembly Interpreter    
+         - TAR - file archiving program    
+         - Image Editor    
+         - Grapic Editor    
+         - Calculator    
+         - etc...    
   <br/>  
 </details>
 
 <details> 
      <summary> 관심분야🔥 </summary><br/> 
-   - Language     
-    - C/C++/Assembly    
-    - Java    
-    - Python     
-    - Web (Javascript, PHP, JSP)     
-    - Mobile Application (Dart)     
-  - Security      
-    - Web     
-    - Crypto      
-    - Reversing      
-    - Exploit    
-     <br/>
+        - Language     
+         - C/C++/Assembly    
+         - Java    
+         - Python     
+         - Web (Javascript, PHP, JSP)     
+         - Mobile Application (Dart)     
+       - Security      
+         - Web     
+         - Crypto      
+         - Reversing      
+         - Exploit    
+          <br/>
 </details>
    
 - Problem Solving    
