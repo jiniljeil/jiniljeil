@@ -30,7 +30,7 @@
 </details>
 
 <details> 
-     <summary> 관심분야🔥 </summary><br/> 
+     <summary> 관심분야 🔥 </summary><br/> 
      <ul>
           <li>Language
                <ul>
