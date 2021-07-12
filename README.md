@@ -11,8 +11,8 @@
           <li>Arp Spoofing (Network hacking) (2019-1)</li>
           <li>HGU SHOP Application (2019-2)</li>
           <li>Connect6 (2020-1)</li>
-          <li>C++ Education Video Contest</li>
-          <li>Lecture Assessment Website</li>
+          <li>C++ Education Video Contest (2020-2)</li>
+          <li>Lecture Assessment Website (2020-2)</li>
           <li>Pentest WebSite (Website hacking) (2020-2)</li>
           <li>Place of Meeting Application (2021-1)</li>
           <li>Side Project
