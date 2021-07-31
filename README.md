@@ -4,7 +4,7 @@
 
 > The stupidest and ugliest excuse of all is an excuse for the "I don't have time." - Edison
 -----------------    
-
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjiniljeil%2Fhit-counter&count_bg=%23141415&title_bg=%23555555&icon=&icon_color=%23E7E0E0&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 <details>
 <summary> ⭐ 프로젝트 경험 ⭐ </summary><br/>
      <ul> 
