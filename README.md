@@ -17,7 +17,7 @@
           <li>Lecture Assessment Website (2020-2)</li>
           <li>Pentest WebSite (Website hacking) (2020-2)</li>
           <li>Place of Meeting Application (2021-1)</li>
-          <li>[LAN STUDY (Secure Coding Contest) (2021-1)](https://github.com/jiniljeil/LAN-STUDY) </li> 
+          <li>LAN STUDY (Secure Coding Contest) (2021-1)</li> [LAN STUDY](https://github.com/jiniljeil/LAN-STUDY)
           <li>Side Project
                <ul>
                     <li>Java syntax Highlighter</li>
