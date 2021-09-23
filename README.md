@@ -8,7 +8,7 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjiniljeil%2Fhit-counter&count_bg=%23141415&title_bg=%23555555&icon=&icon_color=%23E7E0E0&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 <details>
-     <summary><b style="font-size:60pt;"> ⚡ Project </b></summary>
+     <summary style="font-size: 50pt">⚡ Project </summary>
      <ul> 
           <li><a href="#">Arp Spoofing (Network hacking) (2019-1)</a></li>
           <li><a href="https://github.com/jiniljeil/hgu_shop">HGU SHOP Application (2019-2)</a></li>
@@ -21,7 +21,7 @@
 </details>
 
 <details> 
-     <summary> <b style="font-size:60pt;"> 🔥 Interest </b></summary> 
+     <summary style="font-size: 50pt"> 🔥 Interest </summary> 
      <ul>
           <li>Language
                <ul>
@@ -43,7 +43,7 @@
      </ul>
 </details>
 
-## 💻 Online Judge
+### 💻 Online Judge
   - [Baekjoon](https://www.acmicpc.net/user/hello_world1)       
        
   [![백준 랭킹](http://mazassumnida.wtf/api/v2/generate_badge?boj=hello_world1)](https://www.acmicpc.net/user/hello_world1)   
