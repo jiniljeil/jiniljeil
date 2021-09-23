@@ -8,7 +8,7 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjiniljeil%2Fhit-counter&count_bg=%23141415&title_bg=%23555555&icon=&icon_color=%23E7E0E0&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 <details>
-<summary> ⭐ 프로젝트 경험 ⭐ </summary><br/>
+<summary> ⚡ Project </summary><br/>
      <ul> 
           <li><a href="#">Arp Spoofing (Network hacking) (2019-1)</a></li>
           <li><a href="https://github.com/jiniljeil/hgu_shop">HGU SHOP Application (2019-2)</a></li>
@@ -21,7 +21,7 @@
 </details>
 
 <details> 
-     <summary> 관심분야 🔥 </summary><br/> 
+     <summary> 🔥 Interest </summary><br/> 
      <ul>
           <li>Language
                <ul>
