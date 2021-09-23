@@ -42,8 +42,8 @@
           </li>
      </ul>
 </details>
-   
-- Problem Solving    
+
+## 💻 Online Judge
   - [Baekjoon](https://www.acmicpc.net/user/hello_world1)       
        
   [![백준 랭킹](http://mazassumnida.wtf/api/v2/generate_badge?boj=hello_world1)](https://www.acmicpc.net/user/hello_world1)   
