@@ -6,9 +6,9 @@
 -----------------    
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjiniljeil%2Fhit-counter&count_bg=%23141415&title_bg=%23555555&icon=&icon_color=%23E7E0E0&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-
+<summary> <h3 style="display:inline"> ⚡ Project </h3></summary><br/>
 <details>
-     <summary> <h3 style="display:inline"> ⚡ Project </h3></summary><br/>
+     
      <ul> 
           <li><a href="#">Arp Spoofing (Network hacking) (2019-1)</a></li>
           <li><a href="https://github.com/jiniljeil/hgu_shop">HGU SHOP Application (2019-2)</a></li>
@@ -19,9 +19,9 @@
           <li><a href="https://github.com/jiniljeil/LAN-STUDY">LAN STUDY (Secure Coding Contest) (2021-1)</a></li>
      </ul> 
 </details>
-
+<summary> <h3 style="display:inline">🔥 Interest </h3></summary><br/> 
 <details> 
-     <summary> <h3 style="display:inline">🔥 Interest </h3></summary><br/> 
+
      <ul>
           <li>Language
                <ul>
