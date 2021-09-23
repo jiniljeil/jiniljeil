@@ -7,7 +7,7 @@
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjiniljeil%2Fhit-counter&count_bg=%23141415&title_bg=%23555555&icon=&icon_color=%23E7E0E0&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-### Project & Interest
+## Project & Interest
 <details>
      <summary style="font-size: 80pt; font-weight: bold">⚡ Project </summary> <br>
      <ul> 
@@ -44,7 +44,7 @@
      </ul>
 </details>
 
-### 💻 Online Judge
+## 💻 Online Judge
   - [Baekjoon](https://www.acmicpc.net/user/hello_world1)       
        
   [![백준 랭킹](http://mazassumnida.wtf/api/v2/generate_badge?boj=hello_world1)](https://www.acmicpc.net/user/hello_world1)   
