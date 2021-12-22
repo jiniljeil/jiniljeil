@@ -47,9 +47,10 @@
 
 ## 💻 Online Judge    
 * solvedac: [hello_world1](https://solved.ac/profile/hello_world1)
-- [Baekjoon](https://www.acmicpc.net/user/hello_world1)   
+ 
   
 <!--
+- [Baekjoon](https://www.acmicpc.net/user/hello_world1)  
 [![백준 티어](http://mazassumnida.wtf/api/v2/generate_badge?boj=hello_world1)](https://www.acmicpc.net/user/hello_world1)   
 
 **jiniljeil/jiniljeil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
