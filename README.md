@@ -46,8 +46,8 @@
 </details>
 
 ## 💻 Online Judge    
-* solvedac: [hello_world1](https://solved.ac/profile/hello_world1)
- 
+* BOJ: [jhnah917](http://icpc.me/jhnah917)
+  * solvedac: [jhnah917](https://solved.ac/profile/jhnah917) 
   
 <!--
 - [Baekjoon](https://www.acmicpc.net/user/hello_world1)  
