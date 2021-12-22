@@ -47,7 +47,7 @@
 
 ## 💻 Online Judge
   - [Baekjoon](https://www.acmicpc.net/user/hello_world1)       
-  * solvedac: [hello_world1](https://solved.ac/profile/hello_world1)
+     * solvedac: [hello_world1](https://solved.ac/profile/hello_world1)
   
   
 <!--
