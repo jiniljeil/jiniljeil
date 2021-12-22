@@ -46,9 +46,7 @@
 </details>
 
 ## 💻 Online Judge    
-* BOJ: [jhnah917](http://icpc.me/jhnah917)
-  * solvedac: [jhnah917](https://solved.ac/profile/jhnah917) 
-  
+
 <!--
 - [Baekjoon](https://www.acmicpc.net/user/hello_world1)  
 [![백준 티어](http://mazassumnida.wtf/api/v2/generate_badge?boj=hello_world1)](https://www.acmicpc.net/user/hello_world1)   
