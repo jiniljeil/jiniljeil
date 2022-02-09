@@ -64,9 +64,7 @@
           <li>Security
                <ul>
                     <li>Web</li>
-                    <li>Crypto</li>
                     <li>System</li>
-                    <li>Network</li>
                </ul>
           </li>
      </ul>
