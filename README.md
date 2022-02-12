@@ -13,6 +13,7 @@
      <details>
           <summary style="font-size: 80pt; font-weight: bold">🔒 Security & Software Testing </summary> <br>
           <ul>
+               <li><a href="https://github.com/Global-Handong-Oriented-Security-Team/WebSecurity">Web Security(2020-2)</a></li>
                <li><a href="https://github.com/jiniljeil/Fuzzing">(C/C++) Fuzzing Framework(2021-2)</a></li>
           </ul>
      </details>
