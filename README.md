@@ -9,47 +9,47 @@
 
 ## Project & Interest
 <details> 
-     <summary style="font-size: 80pt; font-weight: bold">🔒 Projects </summary> <br>
-<details>
-     <summary style="font-size: 80pt; font-weight: bold">🔒 Security & Software Testing </summary> <br>
-     <ul>
-          <li><a href="https://github.com/jiniljeil/Fuzzing">(C/C++) Fuzzing Framework(2021-2)</a></li>
-     </ul>
-</details>
+     <summary style="font-size: 80pt; font-weight: bold"> 📃 Projects </summary> <br>
+     <details>
+          <summary style="font-size: 80pt; font-weight: bold">🔒 Security & Software Testing </summary> <br>
+          <ul>
+               <li><a href="https://github.com/jiniljeil/Fuzzing">(C/C++) Fuzzing Framework(2021-2)</a></li>
+          </ul>
+     </details>
 
-<details>
-     <summary style="font-size: 80pt; font-weight: bold">📱 Android App </summary> <br>
-     <ul> 
-          <li><a href="https://github.com/jiniljeil/hgu_shop">HGU SHOP Application (2019-2)</a></li>
-          <li><a href="https://github.com/jiniljeil/PlaceofMeeting">Place of Meeting Application (2021-1)</a></li>     
-     </ul> 
-</details>
-     
-<details>
-     <summary style="font-size: 80pt; font-weight: bold"> 🖥️ Web Application </summary> <br>
-     <ul>
-          <li><a href="https://github.com/jiniljeil/Class_Assessment">Lecture Assessment Website (2020-2)</a></li>
-          <li><a href="https://github.com/jiniljeil/LAN-STUDY">LAN STUDY (Secure Coding Contest) (2021-1)</a></li>
-     </ul>
-</details> 
+     <details>
+          <summary style="font-size: 80pt; font-weight: bold">📱 Android App </summary> <br>
+          <ul> 
+               <li><a href="https://github.com/jiniljeil/hgu_shop">HGU SHOP Application (2019-2)</a></li>
+               <li><a href="https://github.com/jiniljeil/PlaceofMeeting">Place of Meeting Application (2021-1)</a></li>     
+          </ul> 
+     </details>
+
+     <details>
+          <summary style="font-size: 80pt; font-weight: bold"> 🖥️ Web Application </summary> <br>
+          <ul>
+               <li><a href="https://github.com/jiniljeil/Class_Assessment">Lecture Assessment Website (2020-2)</a></li>
+               <li><a href="https://github.com/jiniljeil/LAN-STUDY">LAN STUDY (Secure Coding Contest) (2021-1)</a></li>
+          </ul>
+     </details> 
   
-<details>
-     <summary style="font-size: 80pt; font-weight: bold"> 📟 GUI Program </summary> <br>
-     <ul>
-          <li><a href="https://github.com/jiniljeil/JavaProject/tree/master/UpgradeCalculator">Calculator (2020-1)</a></li>
-          <li><a href="https://github.com/jiniljeil/JavaProject/tree/master/ImageEditor">Image Editor (2020-1)</a></li>
-          <li><a href="https://github.com/jiniljeil/JavaProject/tree/master/GraphicEditor">Paint Board (2020-1)</a></li>
-          <li><a href="https://github.com/jiniljeil/JavaProject/tree/master/Connect6">Connect6 (2020-1)</a></li>
-          <li><a href="https://github.com/jiniljeil/MobileCar-Control-System">MobileCar Control System (2021-2)</a></li>
-     </ul>
-</details>
-     
-<details>
-     <summary style="font-size: 80pt; font-weight: bold"> 📃 Others </summary> <br>
-     <ul>
-          <li><a href="https://github.com/jiniljeil/CppExample">C++ Education Video Contest (2020-2)</a></li>
-     </ul>
-</details>
+     <details>
+          <summary style="font-size: 80pt; font-weight: bold"> 📟 GUI Program </summary> <br>
+          <ul>
+               <li><a href="https://github.com/jiniljeil/JavaProject/tree/master/UpgradeCalculator">Calculator (2020-1)</a></li>
+               <li><a href="https://github.com/jiniljeil/JavaProject/tree/master/ImageEditor">Image Editor (2020-1)</a></li>
+               <li><a href="https://github.com/jiniljeil/JavaProject/tree/master/GraphicEditor">Paint Board (2020-1)</a></li>
+               <li><a href="https://github.com/jiniljeil/JavaProject/tree/master/Connect6">Connect6 (2020-1)</a></li>
+               <li><a href="https://github.com/jiniljeil/MobileCar-Control-System">MobileCar Control System (2021-2)</a></li>
+          </ul>
+     </details>
+
+     <details>
+          <summary style="font-size: 80pt; font-weight: bold"> 📃 Others </summary> <br>
+          <ul>
+               <li><a href="https://github.com/jiniljeil/CppExample">C++ Education Video Contest (2020-2)</a></li>
+          </ul>
+     </details>
 </details>
 <details> 
      <summary style="font-size: 80pt; font-weight: bold"> 🔥 Interest </summary> <br>
