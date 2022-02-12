@@ -16,7 +16,6 @@
                <li><a href="https://github.com/jiniljeil/Fuzzing">(C/C++) Fuzzing Framework(2021-2)</a></li>
           </ul>
      </details>
-
      <details>
           <summary style="font-size: 80pt; font-weight: bold">📱 Android App </summary> <br>
           <ul> 
@@ -24,15 +23,13 @@
                <li><a href="https://github.com/jiniljeil/PlaceofMeeting">Place of Meeting Application (2021-1)</a></li>     
           </ul> 
      </details>
-
      <details>
           <summary style="font-size: 80pt; font-weight: bold"> 🖥️ Web Application </summary> <br>
           <ul>
                <li><a href="https://github.com/jiniljeil/Class_Assessment">Lecture Assessment Website (2020-2)</a></li>
                <li><a href="https://github.com/jiniljeil/LAN-STUDY">LAN STUDY (Secure Coding Contest) (2021-1)</a></li>
           </ul>
-     </details> 
-  
+     </details>
      <details>
           <summary style="font-size: 80pt; font-weight: bold"> 📟 GUI Program </summary> <br>
           <ul>
@@ -43,7 +40,6 @@
                <li><a href="https://github.com/jiniljeil/MobileCar-Control-System">MobileCar Control System (2021-2)</a></li>
           </ul>
      </details>
-
      <details>
           <summary style="font-size: 80pt; font-weight: bold"> 📃 Others </summary> <br>
           <ul>
