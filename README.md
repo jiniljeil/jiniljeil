@@ -7,6 +7,7 @@
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjiniljeil%2Fhit-counter&count_bg=%23141415&title_bg=%23555555&icon=&icon_color=%23E7E0E0&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
+<!--
 ## Project & Interest
 <details> 
      <summary style="font-size: 80pt; font-weight: bold"> 📃 Projects </summary> <br>
@@ -68,6 +69,7 @@
           </li>
      </ul>
 </details>
+-->
 
 ## 💻 Online Judge    
 <a href="https://solved.ac/profile/hello_world1"><img src="https://github-readme-solvedac-hyp3rflow.vercel.app/api/?handle=hello_world1"></a><br>
